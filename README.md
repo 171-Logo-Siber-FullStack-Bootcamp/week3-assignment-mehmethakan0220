@@ -4,3 +4,25 @@
 - Login ve Menu kısımlarının bulanacağı React Native App oluşturulacak
 - JSONPlaceholder API ve axios kullanarak postlar listelenecek
 - Son tarih: 20.02.2022 14:00
+
+
+
+
+
+![Home](./assests/images/home.jpg)
+
+
+
+![Login](./assests/images/signin.jpg)
+
+
+
+![Register](./assests/images/signup.jpg)
+
+
+
+![Posts](./assests/images/posts.jpg)
+
+
+
+![Users](./assests/images/users.jpg)
