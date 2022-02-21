@@ -1,0 +1,32 @@
+{
+  "name": "week3-assignment-mehmethakan0220",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7088352&assignment_repo_type=AssignmentRepo) # 3. Week - React Native App",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mehmethakan0220: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@github.com/171-Logo-Siber-FullStack-Bootcamp/week3-assignment-mehmethakan0220.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week3-assignment-mehmethakan0220/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week3-assignment-mehmethakan0220#readme",
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "axios": "^0.26.0",
+    "expo": "^44.0.0",
+    "expo-contacts": "^10.1.1",
+    "firebase": "^8.2.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1"
+  }
+}
